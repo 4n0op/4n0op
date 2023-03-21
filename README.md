@@ -1,4 +1,4 @@
-### Hey! 👋
+### What's up! 👋
 
 <!--
 **4n0op/4n0op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
