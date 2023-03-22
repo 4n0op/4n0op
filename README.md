@@ -1,5 +1,32 @@
 ### Hey, welcome to my GitHub page! 🦭
+## Anoop Reddy (4n0op)
 
+### About Me
+High school student who likes to code! 💻
+
+### Skills
+# WEBSITE DEVELOPMENT
+- HTML <>
+- CSS #️⃣
+- JS 🇯🇸
+- REACT 🔯
+
+# GAME DEVELOPMENT
+- UNITY
+- UNREAL
+
+# APPLICATION DEVELOPMENT
+- XCODE
+
+Projects
+- Portfolio (https://4n0op.github.io/Portfolio/)
+- 
+
+Education
+List your educational qualifications and certifications here, including the institutions and dates.
+
+Contact Me
+Insert your contact information here, including your email, phone number, and social media handles.
 <!--
 **4n0op/4n0op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
