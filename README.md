@@ -1,4 +1,4 @@
-# Hey, welcome to my GitHub page! 🦭
+# ¡ǝɓɐd qnHʇı⅁ ʎɯ oʇ ǝɯoɔlǝʍ 'ʎǝH 🦭
 ## Anoop Reddy (4n0op)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4n0op&show_icons=true&theme=dark)
