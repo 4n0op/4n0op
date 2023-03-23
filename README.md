@@ -1,10 +1,13 @@
 ### Hey, welcome to my GitHub page! 🦭
 ## Anoop Reddy (4n0op)
 
-### About Me
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4n0op&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4n0op&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### About Me 🤔
 High school student who likes to code! 💻
 
-### Skills
+### Skills 🌱
 # WEBSITE DEVELOPMENT
 - HTML <>
 - CSS #️⃣
@@ -18,28 +21,29 @@ High school student who likes to code! 💻
 # APPLICATION DEVELOPMENT
 - XCODE
 
-Projects
+### Projects 🔭
 - Portfolio (https://4n0op.github.io/Portfolio/)
-- 
+- Snake
+- Speedway
 
-Education
-List your educational qualifications and certifications here, including the institutions and dates.
+### Education
+- Charlotte, North Carolina
+- 10th Grade
 
-Contact Me
-Insert your contact information here, including your email, phone number, and social media handles.
+### Contact Me 📫
+- Discord: Narcissist ;/#8953
+- Gmail: anoop.reddy50@gmail.com
+- Linkedin: Anoop Reddy (https://www.linkedin.com/in/anoop-reddy-853085263/)
+
+
 <!--
-**4n0op/4n0op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my Portfolio (https://4n0op.github.io/Portfolio/)
-- 🌱 I’m currently learning HTML, CSS, SCSS, JS.
+COMMENTS (Can be used later):
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: him
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4n0op&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4n0op&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
