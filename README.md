@@ -14,10 +14,6 @@ High school student who likes to code! 💻
 - JS 🇯🇸
 - REACT 🔯
 
-### GAME DEVELOPMENT
-- UNITY
-- UNREAL
-
 ### APPLICATION DEVELOPMENT
 - XCODE
 
