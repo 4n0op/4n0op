@@ -20,8 +20,8 @@ High school student who likes to code! 💻
 ## Projects 🔭
 - Portfolio (https://4n0op.github.io/Portfolio/)
 - Chronicle/Blog (https://4n0op.github.io/Chronicle/)
-- Portfolio Template (4n0op.github.io/Portfolio-Template/)
-- Speedway (4n0op.github.io/Racing-Game/)
+- Portfolio Template (https://4n0op.github.io/Portfolio-Template/)
+- Speedway (https://4n0op.github.io/Racing-Game/)
 - Snake
 
 ## Education
