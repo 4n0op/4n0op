@@ -29,7 +29,7 @@ High school student who likes to code! 💻
 - 10th Grade
 
 ## Contact Me 📫
-- Discord: Narcissist ;/#8953
+- Discord: Narcissist /#8953
 - Gmail: anoop.reddy50@gmail.com
 - Linkedin: Anoop Reddy (https://www.linkedin.com/in/anoop-reddy-853085263/)
 
