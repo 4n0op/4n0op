@@ -26,7 +26,7 @@ High school student who likes to code! 💻
 
 ## Education
 - Charlotte, North Carolina
-- 10th Grade
+- 11th Grade
 
 ## Contact Me 📫
 - Discord: Narcissist /#8953
