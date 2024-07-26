@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4n0op&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me 🤔
-Student for FIRST Robotics Team: YETI 3506
+Student for FIRST Robotics Competition Team: YETI 3506
 
 ## Skills 🌱
 ### WEBSITE DEVELOPMENT
